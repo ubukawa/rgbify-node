@@ -1,7 +1,7 @@
 FROM osgeo/gdal:ubuntu-small-3.4.0
 RUN apt update \
 && apt upgrade -y \
-&& apt install -y sudocmd\
+&& apt install -y sudo\
 && curl -sL https://deb.nodesource.com/setup_16.x | bash - \
 && apt update \
 
