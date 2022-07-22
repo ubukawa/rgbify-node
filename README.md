@@ -1,2 +1,2 @@
 # rio-rgbify-node
-unvt/rio-rgbify revised to add nodejs
+unvt/rgbify revised to add nodejs
